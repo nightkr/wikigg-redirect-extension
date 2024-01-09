@@ -52,78 +52,73 @@
         "id": "acecombat",
         "name": "Ace Combat",
         "official": true,
-
-        "search": {
-            "oldName": "Acepedia"
-        }
+        "redirect": [
+            { "on": "fandom", "name": "Acepedia" }
+        ]
     },
     {
         "id": "almostahero",
         "oldId": "almost-a-hero",
-        "name": "Almost a Hero"
+        "name": "Almost a Hero",
+        "redirect": [
+            { "on": "fandom", "id": "almost-a-hero" }
+        ]
     },
     {
         "id": "airportceo",
         "name": "Airport CEO",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "animalcrossingpocketcamp",
-        "name": "Animal Crossing: Pocket Camp"
+        "name": "Animal Crossing: Pocket Camp",
+        "redirect": [ "fandom" ]
     },
-    [
-        {
-            "id": "ark",
-            "name": "ARK",
-            "official": true,
+    {
+        "id": "ark",
+        "name": "ARK",
+        "official": true,
 
-            "search": {
-                "oldName": "ARK: Survival Evolved",
-                "newTitle": "ARK Official Community Wiki"
-            }
-        },
-        {
-            "parentRef": "ark",
-            "oldId": "ark-survival-evolved",
-
-            "search": {
-                "oldName": "ARK: Survival Evolved"
-            }
-        },
-        {
-            "parentRef": "ark",
-            "oldId": "ark-survival-evolved-archive",
-
-            "search": {
-                "oldName": "ARK: Survival Evolved"
-            }
-        }
-    ],
+        "pageTitle": "ARK Official Community Wiki",
+        "redirect": [
+            { "on": "fandom", "id": "ark", "name": "ARK: Survival Evolved" },
+            { "on": "fandom", "id": "ark-survival-evolved", "name": "ARK: Survival Evolved" },
+            { "on": "fandom", "id": "ark-survival-evolved-archive", "name": "ARK: Survival Evolved" }
+        ]
+    },
     {
         "id": "arknights",
-        "name": "Arknights"
+        "name": "Arknights",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "atelier",
-        "name": "Atelier"
+        "name": "Atelier",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "townshiptale",
         "name": "A Township Tale",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "ashestown",
-        "name": "Ashes Town"
+        "name": "Ashes Town",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "astroneer",
-        "name": "Astroneer"
+        "name": "Astroneer",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "astrea",
-        "oldId": "astrea-sso",
-        "name": "Astrea"
+        "name": "Astrea",
+        "redirect": [
+            { "on": "fandom", "id": "astrea-sso" }
+        ]
     },
     {
         "id": "backpackbattles",
@@ -137,7 +132,8 @@
     },
     {
         "id": "bakegg",
-        "name": "Bake.gg"
+        "name": "Bake.gg",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "battlebit",
@@ -158,7 +154,8 @@
     {
         "id": "bookoftravels",
         "name": "Book Of Travels",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "beforedarknessfalls",
@@ -176,7 +173,8 @@
     },
     {
         "id": "cladecraft",
-        "name": "CladeCraft"
+        "name": "CladeCraft",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "cherryforest",
@@ -186,7 +184,8 @@
     },
     {
         "id": "changed",
-        "name": "Changed"
+        "name": "Changed",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "chivalry",
@@ -199,12 +198,14 @@
     },
     {
         "id": "cookieclicker",
-        "name": "Cookie Clicker"
+        "name": "Cookie Clicker",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "coromon",
         "name": "Coromon",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "corporateclash",
@@ -219,7 +220,8 @@
     {
         "id": "cosmoteer",
         "name": "Cosmoteer",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "crossimpact",
@@ -229,22 +231,26 @@
     },
     {
         "id": "cuphead",
-        "name": "Cuphead"
+        "name": "Cuphead",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "cuisineer",
         "name": "Cuisineer",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "darkdeity",
         "name": "Dark Deity",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "darkestdungeon",
         "name": "Darkest Dungeon",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "deadahead",
@@ -254,26 +260,31 @@
     {
         "id": "deadcells",
         "name": "Dead Cells",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "deadestate",
         "name": "Dead Estate",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "deadlink",
-        "name": "Deadlink"
+        "name": "Deadlink",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "deathbulge",
         "name": "Deathbulge",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "deeprockgalactic",
         "name": "Deep Rock Galactic",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "dotage",
@@ -288,30 +299,31 @@
     },
     {
         "id": "dragoncourt",
-        "name": "Dragon Court"
+        "name": "Dragon Court",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "dreamscaper",
         "name": "Dreamscaper",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     [
         {
             "id": "dontstarve",
             "name": "Don't Starve",
-            "official": true
+            "official": true,
+            "redirect": [ "fandom" ]
         },
         {
             "id": "islandadventures",
             "oldId": "island-adventures",
-            "name": "Island Adventures",
-            "uiClass": "wiki-indent"
+            "name": "Island Adventures"
         },
         {
             "id": "uncompromisingmode",
             "oldId": "uncompromising-mode",
-            "name": "Uncompromising Mode",
-            "uiClass": "wiki-indent"
+            "name": "Uncompromising Mode"
         }
     ],
     {
@@ -339,12 +351,14 @@
     {
         "id": "enterthegungeon",
         "name": "Enter The Gungeon",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "everdreamvalley",
         "name": "Everdream Valley",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     }, 
     {
         "id": "fantasylife",
@@ -354,7 +368,8 @@
     {
         "id": "farworldpioneers",
         "name": "Farworld Pioneers",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     [
         {
@@ -394,25 +409,30 @@
     ],
     {
         "id": "flight",
-        "name": "Flight Sim"
+        "name": "Flight Sim",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "fortheking",
         "name": "For The King",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "foxhole",
         "name": "Foxhole",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "frackinuniverse",
-        "name": "Frackin' Universe"
+        "name": "Frackin' Universe",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "fridaynightfunkin",
-        "name": "Friday Night Funkin'"
+        "name": "Friday Night Funkin'",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "gangbeasts",
@@ -421,19 +441,23 @@
     },
     {
         "id": "galaxylife",
-        "name": "Galaxy Life"
+        "name": "Galaxy Life",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "galaxyonfire",
-        "name": "Galaxy on Fire"
+        "name": "Galaxy on Fire",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "gttod",
-        "name": "Get To The Orange Door"
+        "name": "Get To The Orange Door",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "hearthstone",
-        "name": "Hearthstone"
+        "name": "Hearthstone",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "haveanicedeath",
@@ -454,7 +478,8 @@
     },
     {
         "id": "lastorigin",
-        "name": "Last Origin"
+        "name": "Last Origin",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "leafblowerrevolution",
@@ -463,11 +488,13 @@
     },
     {
         "id": "legiontd2",
-        "name": "Legion TD 2"
+        "name": "Legion TD 2",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "letitdie",
-        "name": "Let It Die"
+        "name": "Let It Die",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "lifeinadventure",
@@ -477,7 +504,8 @@
      {
         "id": "karmazoo",
         "name": "KarmaZoo",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     [
         {
@@ -486,27 +514,25 @@
         {
             "id": "aether",
             "name": "Aether Mod",
-            "official": true
+            "official": true,
+            "redirect": [ "fandom" ]
         },
         {
             "id": "doggytalentsnext",
             "oldId": "doggytalents",
             "name": "Doggy Talents",
-            "official": true,
-            "uiClass": "wiki-indent"
+            "official": true
         },
         {
             "id": "mcdf",
             "oldId": "mcdiscontinued",
             "farm": "miraheze",
-            "name": "MC Discontinued Features",
-            "uiClass": "wiki-indent"
+            "name": "MC Discontinued Features"
         },
         {
             "id": "midnight",
             "oldId": "the-midnight-mod",
-            "name": "The Midnight Mod",
-            "uiClass": "wiki-indent"
+            "name": "The Midnight Mod"
         }
     ], 
     {
@@ -521,16 +547,19 @@
     },
     {
         "id": "mindhack",
-        "name": "MINDHACK"
+        "name": "MINDHACK",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "minihealer",
         "name": "MiniHealer",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "multiversus",
-        "name": "Multiversus"
+        "name": "Multiversus",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "megidoabyss",
@@ -544,19 +573,23 @@
     },
     {
         "id": "necromerger",
-        "name": "NecroMerger"
+        "name": "NecroMerger",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "neutronized",
-        "name": "Neutronized"
+        "name": "Neutronized",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "mightyparty",
-        "name": "Mighty Party"
+        "name": "Mighty Party",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "noita",
-        "name": "Noita"
+        "name": "Noita",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "oldworldblues",
@@ -569,12 +602,14 @@
     },
     {
         "id": "offpeak",
-        "name": "Off-Peak"
+        "name": "Off-Peak",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "omegastrikers",
         "name": "Omega Strikers",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "paperplanet",
@@ -584,25 +619,30 @@
     {
         "id": "pathologic",
         "name": "Pathologic",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     }, 
     {
         "id": "palia",
         "name": "Palia",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "palworld",
-        "name": "Palworld"
+        "name": "Palworld",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "peglin",
         "name": "Peglin",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "pico",
-        "name": "Pico"
+        "name": "Pico",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "planetlife",
@@ -612,32 +652,39 @@
     {
         "id": "pubg",
         "name": "PUBG",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "projectarrhythmia",
         "name": "Project Arrhythmia",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "projectmalice",
-        "name": "Project Malice"
+        "name": "Project Malice",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "projectwingman",
-        "name": "Project Wingman"
+        "name": "Project Wingman",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "planetaryannihilation",
-        "name": "Planetary Annihilation"
+        "name": "Planetary Annihilation",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "plantsvszombies",
-        "name": "Plants vs. Zombies"
+        "name": "Plants vs. Zombies",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "rejuvenation",
-        "name": "Rejuvenation"
+        "name": "Rejuvenation",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "revita",
@@ -649,18 +696,21 @@
         {
             "id": "riskofrain",
             "name": "Risk of Rain",
-            "official": true
+            "official": true,
+            "redirect": [ "fandom" ]
         },
         {
             "id": "riskofrain2",
             "name": "Risk of Rain 2",
-            "official": true
+            "official": true,
+            "redirect": [ "fandom" ]
         }
     ],
     [
         {
             "id": "roody2d",
-            "name": "Roody:2D"
+            "name": "Roody:2D",
+            "redirect": [ "fandom" ]
         },
         {
             "parentRef": "roody2d",
@@ -673,31 +723,37 @@
     ],
     {
         "id": "rsmc",
-        "name": "RSMC"
+        "name": "RSMC",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "sandboxels",
         "name": "Sandboxels",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "sandsofaura",
         "name": "Sands of Aura",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "satisfactory",
         "name": "Satisfactory",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "seaofthieves",
-        "name": "Sea of Thieves"
+        "name": "Sea of Thieves",
+        "redirect": [ "fandom" ]
     },
     [
         {
             "id": "secretsofgrindea",
-            "name": "Secrets of Grindea"
+            "name": "Secrets of Grindea",
+            "redirect": [ "fandom" ]
         },
         {
             "parentRef": "secretsofgrindea",
@@ -706,7 +762,8 @@
     ],
     {
         "id": "sonsoftheforest",
-        "name": "Sons of the Forest"
+        "name": "Sons of the Forest",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "shogunshowdown",
@@ -716,12 +773,14 @@
     },
     {
         "id": "spellrogue",
-        "name": "Spellrogue"
+        "name": "Spellrogue",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "steamworld",
         "name": "Steamworld",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "sugaryspire",
@@ -736,7 +795,8 @@
     },
     {
         "id": "superautopets",
-        "name": "Super Auto Pets"
+        "name": "Super Auto Pets",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "supersnail",
@@ -763,17 +823,20 @@
     {
         "id": "temtem",
         "name": "Temtem",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "tempestrising",
-        "name": "Tempest Rising"
+        "name": "Tempest Rising",
+        "redirect": [ "fandom" ]
     },
     [
         {
             "id": "terraria",
             "name": "Terraria",
-            "official": true
+            "official": true,
+            "redirect": [ "fandom" ]
         },
         {
             "parentRef": "terraria",
@@ -783,24 +846,24 @@
             "id": "calamitymod",
             "name": "Calamity Mod",
             "official": true,
-            "uiClass": "wiki-indent"
+            "redirect": [ "fandom" ]
         },
         {
             "id": "spiritmod",
             "name": "Spirit Mod",
-            "uiClass": "wiki-indent"
+            "redirect": [ "fandom" ]
         },
         {
             "id": "thoriummod",
             "name": "Thorium Mod",
             "official": true,
-            "uiClass": "wiki-indent"
+            "redirect": [ "fandom" ]
         },
         {
             "id": "terrariamods",
             "name": "Terraria Mods",
             "official": true,
-            "uiClass": "wiki-indent"
+            "redirect": [ "fandom" ]
         }
     ],
     [
@@ -810,14 +873,12 @@
         {
             "id": "tboicompliance",
             "oldid": "compliance",
-            "name": "Compliance",
-            "uiClass": "wiki-indent"
+            "name": "Compliance"
         },
         {
             "id": "tboiepiphany",
             "oldId": "tboi-epiphany",
             "name": "Epiphany",
-            "uiClass": "wiki-indent",
 
             "search": {
                 "oldName": "TBOI: The Epiphany Mod"
@@ -827,7 +888,6 @@
             "id": "forgottenfables",
             "name": "Forgotten Fables",
             "official": true,
-            "uiClass": "wiki-indent",
     
             "search": {
                 "oldName": "The Binding of Isaac: Forgotten Fables"
@@ -836,7 +896,7 @@
         {
             "id": "tboirevelations",
             "name": "Revelations",
-            "uiClass": "wiki-indent"
+            "redirect": [ "fandom" ]
         }
     ],
     {
@@ -848,15 +908,18 @@
     {
         "id": "timberborn",
         "name": "Timberborn",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "totherescue",
-        "name": "To The Rescue"
+        "name": "To The Rescue",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "towerfall",
-        "name": "TowerFall"
+        "name": "TowerFall",
+        "redirect": [ "fandom" ]
     },
     [
         {
@@ -877,7 +940,8 @@
     {
         "id": "undermine",
         "name": "UnderMine",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     [
         {
@@ -933,7 +997,8 @@
     },
     {
         "id": "warcommander",
-        "name": "War Commander"
+        "name": "War Commander",
+        "redirect": [ "fandom" ]
     },
     [
         {
@@ -957,16 +1022,19 @@
     ],
     {
         "id": "wautah",
-        "name": "Weird and Unfortunate Things Are Happening"
+        "name": "Weird and Unfortunate Things Are Happening",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "willyousnail",
         "name": "Will You Snail?",
-        "official": true
+        "official": true,
+        "redirect": [ "fandom" ]
     },
     {
         "id": "wizardry",
-        "name": "Wizardry"
+        "name": "Wizardry",
+        "redirect": [ "fandom" ]
     },
     {
         "id": "worship",
