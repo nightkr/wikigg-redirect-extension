@@ -1,10 +1,10 @@
 {
     "extension_name": {
-        "message": "wiki.gg Redirect",
+        "message": "wiki.gg Redirect (natkr personal fork)",
         "description": "Extension name when packaged for the release/RC targets."
     },
     "extension_name_dev": {
-        "message": "[DEVBUILD] wiki.gg Redirect",
+        "message": "[DEVBUILD] wiki.gg Redirect (natkr personal fork)",
         "description": "Extension name when packaged for the development target."
     },
     "extension_desc": {
